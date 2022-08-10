@@ -1,0 +1,1 @@
+../processing4/processing-java --sketch=../main --run

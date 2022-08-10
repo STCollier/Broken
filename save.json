@@ -1,0 +1,14 @@
+{
+  "level1": {
+    "num": 1,
+    "isUnlocked": true
+  },
+  "level3": {
+    "num": 3,
+    "isUnlocked": false
+  },
+  "level2": {
+    "num": 2,
+    "isUnlocked": false
+  }
+}
